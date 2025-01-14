@@ -49,7 +49,7 @@ DB_USER=youruser
 ### Étape 1 : Construire et lancer les conteneurs
 
 ```bash
-docker-compose up --build
+docker compose up --build
 ```
 
 ### Étape 2 : Accéder à l’application
