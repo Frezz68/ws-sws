@@ -8,7 +8,7 @@ Bienvenue dans le projet **WS-SWS** ! Ce guide interactif vous aidera à confi
 
 Avant de commencer, assurez-vous d'avoir :
 
-- 📦 **Node.js** : Installez-le via [Node.js](https://nodejs.org) (version 14+).
+- 📦 **Node.js** : Installez-le via [Node.js](https://nodejs.org) (version 20).
 - 🐳 **Docker** : Téléchargez [Docker Desktop](https://www.docker.com/products/docker-desktop).
 - 💻 Un éditeur de code comme **VS Code**.
 
